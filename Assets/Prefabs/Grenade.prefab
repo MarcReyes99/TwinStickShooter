@@ -151,7 +151,7 @@ MonoBehaviour:
   mask:
     serializedVersion: 2
     m_Bits: 247
-  launchForce: 100
+  launchForce: 3
   timer: 3
   radius: 5
   explosionForce: 100

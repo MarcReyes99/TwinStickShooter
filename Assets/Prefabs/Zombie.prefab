@@ -1488,8 +1488,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4d590b6ddc564e4c95816916e384e6e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speedRotation: 1
-  player: {fileID: 0}
+  speed: 2
+  acceleration: 1
+  speedRotation: 100
   stoppingDistance: 3
 --- !u!1 &6107911781651560435 stripped
 GameObject:
